@@ -1,0 +1,1 @@
+200|{"HID":"85732","ARCH":"armeabi-v7a_armeabi","BRAND":"vivo","Build_VERSION_SDK_INT":"19","DISPLAY":"KTU84P
